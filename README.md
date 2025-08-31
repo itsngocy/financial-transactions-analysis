@@ -10,7 +10,7 @@ You can find the dataset [here](https://www.kaggle.com/datasets/computingvictor/
 
 **The workflow includes:**
 
-- Data Preprocessing: cleaning and standardizing raw datasets.
+- Data Preprocessing: cleaning and standardizing raw datasets using Python.
 - Implementing a Star Schema with fact and dimension tables.
 - Using SQL Server `BULK INSERT` to load cleaned csv data.
 - Creating dashboards in Power BI for transaction, user and merchant analytics. 
