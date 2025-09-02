@@ -42,10 +42,10 @@ You can find the dataset [here](https://www.kaggle.com/datasets/computingvictor/
     <img width="1563" height="835" alt="image" src="https://github.com/user-attachments/assets/f17abf75-1597-488f-8a16-cf6cdbbd796d" />
 
   - **User & Card Insight**
-   <img width="1570" height="828" alt="image" src="https://github.com/user-attachments/assets/ac0672a8-31cb-4c8e-8190-7b41b6f64e45" />
+   <img width="1563" height="835" alt="image" src="https://github.com/user-attachments/assets/ac0672a8-31cb-4c8e-8190-7b41b6f64e45" />
 
   - **Merchant & Merchant Category**
-    <img width="1578" height="841" alt="image" src="https://github.com/user-attachments/assets/f0b3815d-810f-433e-9d3e-8a3650665554" />
+    <img width="1563" height="835" alt="image" src="https://github.com/user-attachments/assets/f0b3815d-810f-433e-9d3e-8a3650665554" />
 
 ## Key Findings
 
